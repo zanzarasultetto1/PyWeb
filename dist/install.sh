@@ -1,5 +1,5 @@
 #!/bin/bash
 
 clear
-echo "Installing.\n"
+echo "Installing."
 wget "nonpersviluppatori.altervista.org/github/dist.zip"
